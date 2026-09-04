@@ -1,6 +1,6 @@
 # Step 4 — Test and Refine the Search Strategy
 
-[← Previous Step: Develop Search Terms From PICO/PICOS](../step-3-develop-search-terms/)
+[← Previous Step: Develop Search Terms From PICO/PICOS](https://github.com/adnan-mayof/Develop-Search-Terms-From-PICO-PICOS)
 
 ---
 
