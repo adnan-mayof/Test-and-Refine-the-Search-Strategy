@@ -769,5 +769,9 @@ Maya has now **developed, adapted, tested, refined, and documented** her search 
 
 The next challenge is to conduct the searches across her selected databases.
 
+She is now ready to move to:
+
+### Next Step
+
 ### **[Step 5 — Search the Databases](https://github.com/adnan-mayof/Search-the-Databases/)**
 
